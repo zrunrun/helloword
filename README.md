@@ -1,2 +1,0 @@
-# helloword
-My first repository
